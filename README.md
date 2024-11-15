@@ -2,6 +2,8 @@
 
 This is a simple personal portfolio website showcasing skills, projects, and experience. This website is built using **Next.js** with **TypeScript** and **Tailwind CSS**.
 
+![ScreenShot](img20241115155746.jpg)
+
 ## Technologies Used
 
 - **Next.js**: A React framework for building server-rendered applications.
