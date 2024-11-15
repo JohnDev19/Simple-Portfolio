@@ -2,7 +2,7 @@
 
 This is a simple personal portfolio website showcasing skills, projects, and experience. This website is built using **Next.js** with **TypeScript** and **Tailwind CSS**.
 
-![ScreenShot](img20241115155746.jpg)
+![ScreenShot](IMG_20241115_155746.jpg)
 
 ## Technologies Used
 
