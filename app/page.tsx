@@ -55,7 +55,7 @@ export default function Portfolio() {
           <h2 className="text-3xl font-bold mb-8 text-center">About Me</h2>
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2 mb-8 md:mb-0">
-              <img src="/placeholder.svg?height=300&width=300" alt="Rust Developer" className="rounded-full mx-auto" width={300} height={300} />
+              <img src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?height=300&width=300" alt="Rust Developer" className="rounded-full mx-auto" width={300} height={300} />
             </div>
             <div className="md:w-1/2">
               <p class Name="text-lg mb-4">
@@ -114,7 +114,7 @@ export default function Portfolio() {
           <h2 className="text-3xl font-bold mb-8 text-center">Projects</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-rust-bg rounded-lg shadow-lg overflow-hidden">
-              <img src="/placeholder.svg?height=200&width=400" alt="Project 1" className="w-full h-48 object-cover" />
+              <img src="https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?height=200&width=400" alt="Project 1" className="w-full h-48 object-cover" />
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-2">RustDB</h3>
                 <p className="mb-4">A high-performance, ACID-compliant database engine written in Rust</p>
@@ -122,7 +122,7 @@ export default function Portfolio() {
               </div>
             </div>
             <div className="bg-rust-bg rounded-lg shadow-lg overflow-hidden">
-              <img src="/placeholder.svg?height=200&width=400" alt="Project 2" className="w-full h-48 object-cover" />
+              <img src="https://images.pexels.com/photos/14751274/pexels-photo-14751274.jpeg?height=200&width=400" alt="Project 2" className="w-full h-48 object-cover" />
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-2">ConcurrentOS</h3>
                 <p className="mb-4">A microkernel operating system showcasing Rust's concurrency features</p>
@@ -130,7 +130,7 @@ export default function Portfolio() {
               </div>
             </div>
             <div className="bg-rust-bg rounded-lg shadow-lg overflow-hidden">
-              <img src="/placeholder.svg?height=200&width=400" alt="Project 3" className="w-full h-48 object-cover" />
+              <img src="https://images.pexels.com/photos/16094041/pexels-photo-16094041.jpeg?height=200&width=400" alt="Project 3" className="w-full h-48 object-cover" />
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-2">RustNet</h3>
                 <p className="mb-4">A blazing-fast web framework for building scalable applications in Rust</p>
