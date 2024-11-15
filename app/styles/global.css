@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-rust-bg: #1c1c1c;
+  --color-rust-text: #f0f0f0;
+  --color-rust-primary: #2b2b2b;
+  --color-rust-secondary: #333333;
+  --color-rust-accent: #ff4500;
+  --color-rust-accent-dark: #cc3700;
+}
+
+body {
+  @apply bg-rust-bg text-rust-text;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-bold;
+}
+
+a {
+  @apply transition-colors duration-200;
+}
+
+.container {
+  @apply px-4;
+}
+
+@media (min-width: 640px) {
+  .container {
+    @apply px-6;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    @apply px-8;
+  }
+}
